@@ -12,6 +12,8 @@ var lastBench = ['kalam', 'balam', 'salam'];
 
 lastBench.pop();
 lastBench.shift()
+lastBench.unshift('labib');
 
+console.log(lastBench);
 console.log(lastBench);
 console.log(lastBench);
