@@ -8,3 +8,4 @@ bookPages[1] = "labib khan"
 console.log(bettayIndex);
 console.log(secondIndex);
 console.log(bookPages);
+
