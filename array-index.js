@@ -10,7 +10,7 @@ console.log(secondIndex);
 console.log(bookPages);
 
 
-
+//averege marks
 var nums = [57, 60, 60];
 
 var totalSum = 0;
